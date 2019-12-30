@@ -5,6 +5,15 @@ title: Isaac Newtons's CV
 # Mr test
 Physicist, Mathematician, Cambridge professor.
 
+![](test.png)
+
+
+
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/71BZz2jEtbL._SX466_.jpg"
+     alt="Markdown Monster icon" />
+
+
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
