@@ -5,7 +5,7 @@ title: Isaac Newtons's CV
 # Mr test
 Physicist, Mathematician, Cambridge professor.
 
-![](test.png)
+![](test.jpg)
 
 
 
